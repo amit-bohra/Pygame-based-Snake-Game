@@ -1,2 +1,3 @@
 # Pygame-based-Snake-Game
-This is pygame and python3 based Snake game
+This is pygame and python3 based Snake game.
+Snake bite Game Over functionality will be embedded soon......
